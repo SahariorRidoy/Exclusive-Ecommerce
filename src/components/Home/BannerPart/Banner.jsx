@@ -1,9 +1,9 @@
 import React from "react";
-import BannerImg from "../../assets/banner.png";
-import arrow from "../../assets/icons arrow-right.png";
-import appleIcon from "../../assets/apple-logo.png";
-import circleGray from '../../assets/circle gray.png'
-import circleRed from '../../assets/circle red.png'
+import BannerImg from "../../../assets/banner.png"
+import arrow from "../../../assets/icons arrow-right.png";
+import appleIcon from "../../../assets/apple-logo.png";
+import circleGray from '../../../assets/circle gray.png'
+import circleRed from '../../../assets/circle red.png'
 import { Link } from "react-router-dom";
 const Banner = () => {
   return (
