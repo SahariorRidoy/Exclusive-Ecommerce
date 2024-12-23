@@ -2,6 +2,7 @@ import React from 'react';
 import BannerContainer from './BannerPart/BannerContainer';
 import AllProducts from './AllProducts/AllProducts';
 import Categories from './Categories/Categories';
+import BestSelling from './BestSelling/BestSelling';
 
 const Home = () => {
     return (
@@ -9,6 +10,7 @@ const Home = () => {
             <BannerContainer></BannerContainer>
             <AllProducts></AllProducts>
             <Categories></Categories>
+            <BestSelling></BestSelling>
         </div>
     );
 };

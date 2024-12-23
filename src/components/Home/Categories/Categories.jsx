@@ -9,7 +9,7 @@ import headphones from "../../../assets/Category-Headphone.png";
 import gaming from "../../../assets/Category-Gamepad.png";
 const Categories = () => {
   return (
-    <div className="max-w-[1170px] mx-auto mt-36 mb-14">
+    <div className="max-w-[1170px] mx-auto mt-20 mb-14">
       {/* Top */}
       <div className="mb-14">
         <div className="flex items-center gap-4 mb-6">
@@ -54,6 +54,7 @@ const Categories = () => {
           <p>Phones</p>
         </div>
       </div>
+      
     </div>
   );
 };
