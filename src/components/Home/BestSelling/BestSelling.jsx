@@ -1,6 +1,4 @@
 import React from "react";
-import leftArrow from "../../../assets/Fill With Left Arrow.png";
-import rightArrow from "../../../assets/Fill with Right Arrow.png";
 import shirt from "../../../assets/shirt.png";
 import bag from "../../../assets/bag 1.png";
 import cooler from "../../../assets/cooler.png";
