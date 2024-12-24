@@ -5,6 +5,7 @@ import Categories from './Categories/Categories';
 import BestSelling from './BestSelling/BestSelling';
 import OurProducts from './OurProducts/OurProducts';
 import SpeakerBanner from './SpeakerBanner/SpeakerBanner';
+import NewArrival from './NewArrival/NewArrival';
 
 const Home = () => {
     return (
@@ -15,6 +16,7 @@ const Home = () => {
             <BestSelling></BestSelling>
             <SpeakerBanner></SpeakerBanner>
             <OurProducts></OurProducts>
+            <NewArrival></NewArrival>
         </div>
     );
 };
